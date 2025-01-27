@@ -1,0 +1,5 @@
+﻿  SolucionSumaArreglosParalela.cpp
+C:\Repos\TC4031\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(34,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Repos\TC4031\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(35,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Repos\TC4031\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(30,9): warning C4101: 'i': variable local sin referencia
+  SolucionSumaArreglosParalela.vcxproj -> C:\Repos\TC4031\SolucionSumaArreglosParalela\x64\Debug\SolucionSumaArreglosParalela.exe
